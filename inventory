@@ -1,0 +1,2 @@
+[docker]
+test_server ansible_port="{{ inventory_port }}" ansible_host="{{ inventory_host }}" ansible_user="{{ inventory_user }}" ansible_ssh_private_key_file="{{ inventory_ssh_key_path }}"

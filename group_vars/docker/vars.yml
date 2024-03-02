@@ -1,0 +1,5 @@
+inventory_port: 22
+inventory_user: user
+inventory_ssh_key_path: path_to_pub_key
+
+
